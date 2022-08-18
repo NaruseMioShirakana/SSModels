@@ -8,3 +8,7 @@ ShirakanaTTSMods
 - Atri：作者：落忆
 - Shiroha：作者：白叶澪（藤原白叶）
 - 柚子社：作者：CjangCjengh
+
+
+
+为了方式一些我不想看到的事情发生，我已经取消发布SummerPockets的模型
