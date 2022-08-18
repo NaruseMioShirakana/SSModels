@@ -11,4 +11,4 @@ ShirakanaTTSMods
 
 
 
-为了方式一些我不想看到的事情发生，我已经取消发布SummerPockets的模型
+为了防止一些我不想看到的事情发生，我已经取消发布SummerPockets的模型
