@@ -1,5 +1,5 @@
-# ShirakanaTTSMods
-ShirakanaTTSMods
+# ShirakanaMioTextToSpeechMods
+ShirakanaMioTextToSpeechMods
 
 
 商业用途理论上不允许（除非获得声源人的许可），使用该模型代表你同意自行承担任何由于使用该模型而造成的法律后果
